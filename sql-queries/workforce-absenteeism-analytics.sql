@@ -5,7 +5,7 @@ WORKFORCE ABSENTEEISM ANALYTICS - REAL-TIME ATTENDANCE TRACKING
 
 BUSINESS CONTEXT:
 This query provides real-time workforce availability tracking for manufacturing
-facilities with 5,000+ employees across multiple departments. Enables:
+facilities with 20,000+ employees across multiple departments. Enables:
 - Production planning based on actual workforce availability
 - Early warning system for resignation trends
 - Department-level attendance monitoring
@@ -312,7 +312,7 @@ NOTES FOR IMPLEMENTATION
    - Oracle driver (OLE DB provider) must be installed on SQL Server
 
 2. PERFORMANCE CONSIDERATIONS:
-   - Query execution time: ~5 seconds for 5,000+ employees
+   - Query execution time: ~5 seconds for 20,000+ employees
    - OPENQUERY syntax allows query to run entirely on Oracle side (faster)
    - Results transferred to SQL Server only once
    - Run as scheduled job daily at shift start (6:00 AM)
