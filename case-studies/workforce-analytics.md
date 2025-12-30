@@ -6,7 +6,7 @@
 ## Client Context
 
 **Industry:** Manufacturing facilities  
-**Workforce Scale:** 5,000+ employees across multiple departments  
+**Workforce Scale:** 20,000+ employees across multiple departments  
 **Challenge:** Real-time workforce availability for production planning
 
 ---
@@ -225,7 +225,7 @@ System showed Assembly department had **22% absenteeism every Monday** (normal: 
    - Solution: Installed Oracle OLE DB provider, configured linked server with credentials
 
 2. **Query Performance**
-   - Challenge: 5,000+ employee records processed daily
+   - Challenge: 20,000+ employee records processed daily
    - Solution: Query runs on Oracle side (OPENQUERY), only results transferred
 
 3. **Character Set Differences**
