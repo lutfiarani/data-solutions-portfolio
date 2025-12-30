@@ -1,4 +1,4 @@
-# Data Solutions Portfolio
+#I#I# Data Solutions Portf
 
 **Lutfiarani** | Data Solutions Specialist  
 📍 Jepara, Central Java, Indonesia
@@ -136,9 +136,9 @@ Real-time workforce availability system for manufacturing facilities with 5,000+
 
 **Let's turn your data into decisions.**
 
-📧 **Email:** [your-email@example.com]  
-💼 **LinkedIn:** [linkedin.com/in/lutfiarani]  
-🌐 **Portfolio:** [your-website.com] *(optional)*
+📧 **Email:** lutfiaranisafitri@gmail.com
+💼 **LinkedIn:** www.linkedin.com/in/lutfiarani-safitri 
+🌐 **Portfolio:** https://portofolio.lutfiaranis.com/
 
 ---
 
